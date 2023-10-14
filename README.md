@@ -3,4 +3,4 @@
 
 ## Documentation
 
-[Link to PDF Documentation (Preview)](https://drive.google.com/drive/u/0/my-drive/preview)
+[Link to PDF Documentation (Preview)](https://github.com/MouhtaramSoufiane/Read-Write-From-HDFS-Using-JAVA-API/files/12906740/READ.AND.WRITE.FROM.HDFS.USING.JAVA.API.pdf)
